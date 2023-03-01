@@ -1,4 +1,4 @@
-<img src= banner.png">
+<img src= "https://repository-images.githubusercontent.com/307860000/93e34480-5e7d-11eb-9644-58b1688fc80a">
 
 ![Release](https://img.shields.io/github/v/release/clown83848474/Python-Music-Bot)
 ![Forks](https://img.shields.io/github/forks/clown83848474/Python-Music-Bot)
@@ -7,10 +7,9 @@
 <img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues/clown83848474/Discord-Bot">
 <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Discord.py">
 
-# Joker Bot
+# Music Bot
 
-
-> A Discord Bot With A Lot Of Features Made With Discord.py, and that is easy to set up and run yourself!
+> A Simple Discord.py Music Bot Using LavaLink, and that is easy to set up and run yourself!
 
 ## Features
   * Easy to run (just make sure Discord.py And Requirements is installed, and run!)
