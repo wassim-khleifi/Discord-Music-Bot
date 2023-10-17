@@ -1,4 +1,4 @@
-![]("https://repository-images.githubusercontent.com/307860000/93e34480-5e7d-11eb-9644-58b1688fc80a")
+![](https://repository-images.githubusercontent.com/307860000/93e34480-5e7d-11eb-9644-58b1688fc80a)
 
 ![Forks](https://img.shields.io/github/forks/clown83848474/Python-Music-Bot)
 ![License](https://img.shields.io/github/license/clown83848474/Python-Music-Bot.svg)
